@@ -10,7 +10,7 @@ body {
     color: #777777;
     background-color: #777777;
     width: 960px;
-    margin-left: 20%;
+    margin: 0 auto;
     font-size: 18px;
     text-align: center;
     overflow: visible;
@@ -40,13 +40,13 @@ section {
     background-color: #ebebeb;
     float: left;
     padding: 35px;
-    width: 495px;
+    width: 545px;
     overflow: auto;
 }
 
 article {
     color: #ebebeb;
-    margin: 10px;
+    margin: 0 auto;
     padding: 15px;
     background-color: #777777;
     overflow: auto;
@@ -71,7 +71,7 @@ aside {
     margin-left: 20px;
     float: left;
     padding: 35px;
-    width: 445px;
+    width: 395px;
 }
 
 footer {
